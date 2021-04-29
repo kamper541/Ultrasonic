@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For GoGoBoardArduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GoGoBoardArduino	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readInput	KEYWORD2
+talkToServo	KEYWORD2
+setServoHead	KEYWORD2
+turnServoThisWay	KEYWORD2
+turnServoThatWay	KEYWORD2
+setServoPower	KEYWORD2
+talkToOutput	KEYWORD2
+setOutputPower	KEYWORD2
+turnOutputON	KEYWORD2
+turnOutputOFF	KEYWORD2
+turnOutputONOFF	KEYWORD2
+turnOutputThisWay	KEYWORD2
+turnOutputThatWay	KEYWORD2
+turnOutputDirection	KEYWORD2
+toggleOutputWay	KEYWORD2
+beep	KEYWORD2
+connectToWifi	KEYWORD2
+sendGmessage	KEYWORD2
+isGmessageAvailable	KEYWORD2
+Gmessage	KEYWORD2
+setBroadcastChannel	KEYWORD2
+setBroadcastPassword	KEYWORD2
+sendBroadcast	KEYWORD2
+receiveBroadcast	KEYWORD2
+sendCloudMessage	KEYWORD2
+isCloudMessageAvailable	KEYWORD2
+Cloudmessage	KEYWORD2
